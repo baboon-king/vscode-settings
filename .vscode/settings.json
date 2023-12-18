@@ -12,5 +12,6 @@
   "editor.inlineSuggest.enabled": true,
   "emmet.showExpandedAbbreviation": "inMarkupAndStylesheetFilesOnly",
   "explorer.confirmDragAndDrop": false,
-  "explorer.compactFolders": false
+  "explorer.compactFolders": false,
+  "diffEditor.ignoreTrimWhitespace": true
 }
