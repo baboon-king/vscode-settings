@@ -1,1 +1,11 @@
-{}
+{
+  "recommendations": [
+    "streetsidesoftware.code-spell-checker",
+    "eamodio.gitlens",
+    "editorconfig.editorconfig",
+    "esbenp.prettier-vscode",
+    "pflannery.vscode-versionlens",
+    "yoavbls.pretty-ts-errors",
+    "pkief.material-icon-theme"
+  ]
+}
