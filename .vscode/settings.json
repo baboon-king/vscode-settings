@@ -1,0 +1,16 @@
+{
+  "workbench.iconTheme": "material-icon-theme",
+  "workbench.sideBar.location": "right",
+  "workbench.tree.enableStickyScroll": true,
+  "editor.tabSize": 2,
+  "editor.fontFamily": "'Fira Code', 'JetBrains Mono',  Menlo, Monaco, 'Courier New', monospace",
+  "editor.fontLigatures": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.formatOnSave": false,
+  "editor.bracketPairColorization.enabled": true,
+  "editor.accessibilitySupport": "off",
+  "editor.inlineSuggest.enabled": true,
+  "emmet.showExpandedAbbreviation": "inMarkupAndStylesheetFilesOnly",
+  "explorer.confirmDragAndDrop": false,
+  "explorer.compactFolders": false
+}
