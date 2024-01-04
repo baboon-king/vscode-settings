@@ -7,6 +7,7 @@
   "editor.fontLigatures": true,
   "editor.defaultFormatter": "esbenp.prettier-vscode",
   "editor.formatOnSave": false,
+  "editor.guides.bracketPairs": "active",
   "editor.bracketPairColorization.enabled": true,
   "editor.accessibilitySupport": "off",
   "editor.inlineSuggest.enabled": true,
